@@ -1,9 +1,11 @@
 # Using Targeted Sequencing to Further Cancer Diagnostics
 1. [Introduction](#1)
 2. [Overivew of Methods](#2)<br>
-    2.1. [Specificity](#2321)<br>
-    2.2. [Through-put and resolution](#2322)
 3. [Overview of Tools](#3)
+	a. [Whole Genome Sequencing](#31)<br>
+	b. [Whole Exome Sequencing](#32)<br>
+	c. [CAPP-Seq](#33)<br>
+	d. [TAm-Seq](#34)<br>
 4. [Applications & Future Use](#4)
 5. [Data Tables & Figures](#5)
 
@@ -21,11 +23,17 @@ Liquid Biopsy Overview: https://www.ncbi.nlm.nih.gov/pubmed/29747380
 
 ## Overivew of Methods<a name="2"></a>
 
+
+#### Whole Genome Sequencing (WGS) :<a name="31"></a>
+
+
+#### Whole Exome Sequencing (WES) :<a name="32"></a>
+
 CAPP-Seq Workflow:
 ![](/assets/1-s2.0-S1360138518300827-gr1b2_lrg.jpg)
 [Figure1](https://doi.org/10.1016/j.tplants.2018.03.014). Figure Description**Figure Citation**
 
-#### CAPP-Seq: 
+#### CAPP-Seq:<a name="33"></a>
 Cancer Personalized Profiling by Deep Sequencing (CAPP-Seq) is a highly sensititve and economical method to quantify ctDNA. In general, ctDNA levels are highly correlated with tumor volume and can provide earlier treatment response assessment compared to radiographic approaches. In non-small cell lung cancer patients, ctDNA was detected in 100% of stage II-IV tumors and 50% of stage I tumors. The CAPP-Seq technique requires designing a "selector" of biotinylated DNA oligonucleotides that target recurrently mutated regions in the cancer of interest. The selector panel is often optimized using WES data and other intron breakpoints to best span the mutated areas. CAPP-Seq can be further applied to disease stage monitoring as it can predict tumor stage progression via ctDNA analysis with a relatively high degree of sensitivity and specificity. 
 
 
@@ -49,26 +57,6 @@ Prototypic example where the AF's of 10 different mutations in a patient with me
 
 https://www.ncbi.nlm.nih.gov/pubmed/22649089
 
-##### Hi-C critical steps [8] 
-- Fixation: keep DNA conformed
-- Digestion: enzyme frequency and penetratin
-- Fill-in: biotin for junction enrichment
-- Ligation: freeze interactions in sequence
-- Biotin removal: junctions only
-- Fragment size: small fragments sequence better
-- Adapter ligation: paired-end and indexing
-- PCR: create enough material for flow cell
-
-##### Hi-C derived techniques 
-- Hi-C original: [Lieberman-Aiden et al., Science 2010](doi: 10.1126/science.1181369)
-- Hi-C 1.0: [Belton-JM et al., Methods 2012](doi: 10.1016/j.ymeth.2012.05.001)
-- In situ Hi-C: [Rao et al., Cell 2014](doi: 10.1016/j.cell.2014.11.021)
-- Single cell Hi-C: [Nagano et al., Genome Biology 2015](https://doi.org/10.1186/s13059-015-0753-7)
-- DNase Hi-C [Ma, Wenxiu, Methods et al](https://www.ncbi.nlm.nih.gov/pubmed/25437436)
-- Hi-C 2.0: [Belaghzal et al., Methods 2017](https://www.ncbi.nlm.nih.gov/pubmed/28435001)
-- DLO-Hi-C: [Lin et al., Nature Genetics 2018](https://doi.org/10.1038/s41588-018-0111-2)
-- Hi-C improving: [Golloshi et al., Methods 2018](https://www.biorxiv.org/content/biorxiv/early/2018/02/13/264515.full.pdf)
-- Arima 1-day Hi-C: [Ghurye et al., BioRxiv 2018](https://www.biorxiv.org/content/early/2018/02/07/261149)
 
 ## Future Applications & <a name="4"></a> 
 
