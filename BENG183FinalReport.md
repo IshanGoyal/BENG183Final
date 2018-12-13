@@ -37,14 +37,12 @@ In contrast, liquid biopsy is showing great promise through the analysis of tumo
 
 Circulating Tumor Cells (CTCs): CTC's are tumor cells that have spread from tumors via blood or lymphatic vessels. The presence of CTC's in lung cancer patients has been reported as a known factor in disease metastasis and outgrowth. The key challenge with CTC's is their detection as they require extreme levels of sensitivity to observe. One enrichment technique, CellSearch, has been approved by the FDA for monitoring metastatic breast cancer, castration-resistant prostate cancer, and color cancer. [2] In clinical practice, it has been noticed that the overall survival of patients who had stable CTC counts in their blood after treatment was significantly worse.
 
-Circulating Tumor DNA (ctDNA): ctDNA is hypothesized to enter the bloodstream either passively through apoptotic and necrotic tumor cells or actively by living tumor cells that are targeting recipient cells at distal locations. Detection of ctDNA, similar to CTC's, is challenging as it is a small percentage of all cell free DNA. Using PCR and advanced NGS technologies, it is possible to identify low concentrations of ctDNA within patient plasma samples. Additional methods will be discussed below that help improve the sensitivity of NGS ctDNA sample analysis. [2] In the clinical setting, ctDNA can be used for early diagnosis/response prediction and to characterize molecular tumor alterations. It has been noted in many studies that the ctDNA concentration often spikes during patient relapse.
+Circulating Tumor DNA (ctDNA): ctDNA is hypothesized to enter the bloodstream either passively through apoptotic and necrotic tumor cells or actively by living tumor cells that are targeting recipient cells at distal locations. Detection of ctDNA, similar to CTC's, is challenging as it is a small percentage of all cell free DNA. Using PCR and advanced NGS technologies, it is possible to identify low concentrations of ctDNA within patient plasma samples. Additional methods will be discussed below that help improve the sensitivity of NGS ctDNA sample analysis. [2] In the clinical setting, ctDNA can be used for early diagnosis/response prediction and to characterize molecular tumor alterations. It has been noted in many studies that the ctDNA concentration often spikes during patient relapse. Overall, both CTC and ctDNA analysis coupled with sequencing methodologies can yield novel insights on tumor growth and patient specific mutations.
 
 
 ![](./CTCvsctDNA2.jpg) <br>
 [Figure 2](http://cancerdiscovery.aacrjournals.org/content/4/6/650).
 **CTC and ctDNA analysis can yield information on the tumor progression and mutation profile.**
-
-
 
 
 ## Overview of Methods <a name="3"></a>
