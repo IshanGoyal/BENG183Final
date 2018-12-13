@@ -1,13 +1,13 @@
 # Using Targeted Sequencing to Further Cancer Diagnostics
-1. [Introduction](#1)
+1. [Introduction](#1)<br>
 2. [Overivew of Methods](#2)<br>
-3. [Overview of Tools](#3)
+3. [Overview of Tools](#3)<br>
 	a. [Whole Genome Sequencing](#31)<br>
 	b. [Whole Exome Sequencing](#32)<br>
 	c. [CAPP-Seq](#33)<br>
 	d. [TAm-Seq](#34)<br>
-4. [Applications & Future Use](#4)
-5. [Data Tables & Figures](#5)
+4. [Applications & Future Use](#4)<br>
+5. [Data Tables & Figures](#5)<br>
 
 
 
@@ -24,14 +24,13 @@ Liquid Biopsy Overview: https://www.ncbi.nlm.nih.gov/pubmed/29747380
 ## Overivew of Methods<a name="2"></a>
 
 
-#### Whole Genome Sequencing (WGS) :<a name="31"></a>
+#### Whole Genome Sequencing (WGS): <a name="31"></a>
 
 
 #### Whole Exome Sequencing (WES) :<a name="32"></a>
 
 CAPP-Seq Workflow:
-![](/assets/1-s2.0-S1360138518300827-gr1b2_lrg.jpg)
-[Figure1](https://doi.org/10.1016/j.tplants.2018.03.014). Figure Description**Figure Citation**
+![](./CAPP-Seq.png). Insert CAPP-Seq Image Description **CAPP-Seq Paper**
 
 #### CAPP-Seq:<a name="33"></a>
 Cancer Personalized Profiling by Deep Sequencing (CAPP-Seq) is a highly sensititve and economical method to quantify ctDNA. In general, ctDNA levels are highly correlated with tumor volume and can provide earlier treatment response assessment compared to radiographic approaches. In non-small cell lung cancer patients, ctDNA was detected in 100% of stage II-IV tumors and 50% of stage I tumors. The CAPP-Seq technique requires designing a "selector" of biotinylated DNA oligonucleotides that target recurrently mutated regions in the cancer of interest. The selector panel is often optimized using WES data and other intron breakpoints to best span the mutated areas. CAPP-Seq can be further applied to disease stage monitoring as it can predict tumor stage progression via ctDNA analysis with a relatively high degree of sensitivity and specificity. 
